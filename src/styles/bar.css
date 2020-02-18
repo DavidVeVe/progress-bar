@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.trail {
+  width: 100%;
+  height: 10px;
+  position: relative;
+  background-color: #bdbdbd;
+}
+
+.bar {
+  height: inherit;
+  background-color: #3e63c9;
+  position: absolute;
+}
+
+.btn {
+  margin-top: 20px;
+}
